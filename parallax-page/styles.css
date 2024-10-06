@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    
+    height: 100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+.img1{
+    background-image: url(./images/indian-holiday-background.jpg);
+}
+.img2{
+    background-image: url(./images/Freedom-Fighters.jpg);
+}
+.img3{
+    background-image: url(./images/bgimg.jpg);
+}
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    width: 97.3%;
+    word-spacing: 4px;
+    
+}
+.para{
+    background-color: #1A1D23;
+    color: wheat;
+    padding: 20px;
+    text-align: center;
+    width: auto;
+    font-size: large;
+    line-height: 24px;
+}
+.heading1, .heading3, .heading4{
+    background-color: rgba(0, 0, 0, 0.507);
+    text-shadow: 3px 3px black;
+}
+.heading2{
+    background-color:rgba(184, 135, 11, 0.543);
+    text-shadow: 3px 3px rgb(99, 74, 9);
+}
+.end{
+    color: blanchedalmond;
+    background-color: #1A1D23;
+}
